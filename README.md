@@ -1,2 +1,2 @@
 # hello-world
-I am doing this as an assignment.
+My name is Landon Gerving.
